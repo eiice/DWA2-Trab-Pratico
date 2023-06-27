@@ -1,3 +1,13 @@
+2023.1.DW2A4
+Repositório modelo para o projeto da disciplina de 2023.1 - DW2A4 - do IFSP
+
+Aluno Nome Sobrenome thales.willian@aluno.ifsp.edu.br  
+
+Thales Ferreira - SP3084787
+
+Prof. Quirino luiz.quirino@ifsp.edu.br
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
